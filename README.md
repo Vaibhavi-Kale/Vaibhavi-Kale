@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Vaibhavi Kale</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavi-kale&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavi-kale" /> </p>
-
 - 🔭 I’m currently working on **Java full stack development**
 
 - 🌱 I’m currently learning **React,NodeJs,ExpressJs,MongoDB**
