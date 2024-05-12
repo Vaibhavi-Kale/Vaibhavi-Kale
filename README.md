@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React,NodeJs,ExpressJs,MongoDB**
 
-- 👨‍💻 All of my projects are available at [will be soon public for contribution](will be soon public for contribution)
+- 👨‍💻 All of my projects are available at [will be soon public for contribution]
 
 - 💬 Ask me about **C, C++,Java,Python,Data structure,MYSQL**
 
