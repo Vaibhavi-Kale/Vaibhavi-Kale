@@ -24,3 +24,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavi-kale&show_icons=true&locale=en" alt="vaibhavi-kale" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavi-kale&" alt="vaibhavi-kale" /></p>
+
+<h3 align="left">RESUME</h3>
+https://drive.google.com/file/d/1524qvz6OBJsj8Xr8msiYCcb2d5H-kZnG/view?usp=sharing
